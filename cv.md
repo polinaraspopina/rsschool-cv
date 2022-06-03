@@ -37,6 +37,9 @@ function multiply(a, b){
 [CV](https://github.com/polinaraspopina/rsschool-cv)
 ## Languages
 **_Russian_**: Native.
-**_English_**: C1-C2, according to [efset.org online test](www.efset.org/quick-check)
+
+**_English_**: C1-C2, according to [efset.org online test](www.efset.org/quick-check).
 
 ![My English level](https://i.pinimg.com/564x/2f/d7/71/2fd771060119a2a179d52e97bcaf0114.jpg)
+
+**_Ukrainian & Czech_**: A2 (learning).
