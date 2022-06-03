@@ -5,6 +5,7 @@
 - Location: Novosibirsk, Russia
 - E-mail: polinaraspopina2512@gmail.com
 - GitHub: [polinaraspopina](https://github.com/polinaraspopina)
+
 ## About me
 A decision to pursue a career in IT was easy to me, as I graduated a lyceum specializing mainly in mathematics and informatics. This is why I am currently getting a BCs degree in Informatics and Computer Engineering.
 
