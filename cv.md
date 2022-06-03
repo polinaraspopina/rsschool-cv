@@ -14,9 +14,13 @@ I believe that my curiousity for knowledge and strong personality will allow me 
 ## Skills
 
 ## Education
-
+- Informatics and Computer Engineering BSc at NSTU (in progress)
+- HTML and CSS basics at [freecodecamp.org](www.freecodecamp.org)
+- JavaScript/Front-end. Stage 0 at [RS School](https://rs.school) (in progress)
 ## Code example
 
 ## Projects
 
 ## Languages
+**_Russian_**: Native.
+**_English_**: C1-C2, according to [efset.org online test](www.efset.org/quick-check)
