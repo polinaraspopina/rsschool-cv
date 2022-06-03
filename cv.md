@@ -12,15 +12,18 @@ A decision to pursue a career in IT was easy to me, as I graduated a lyceum spec
 About a year ago I got really intrested in Web Developing. It is fascinating to me how much you can do with a seemingly small set of tools, but more importantly, how much you can learn and grow thanks to all the open-source resources in this field.
 
 I believe that my curiousity for knowledge and strong personality will allow me to become an adaptable and rsponsible Front-end Developer.
+
 ## Skills
 - HTML5 and CSS3 basics
 - Git, GitHub
 - VS Code
 - Experience with C/C++
+
 ## Education
 - Informatics and Computer Engineering BSc at NSTU (in progress)
 - HTML and CSS basics at [freecodecamp.org](https://www.freecodecamp.org/)
 - JavaScript/Front-end. Stage 0 at [RS School](https://rs.school) (in progress)
+
 ## Code example
 *Codewars instructions*: This code does not execute properly. Try to figure out why.
 ```
@@ -34,8 +37,10 @@ function multiply(a, b){
   return a * b
 }
 ```
+
 ## Projects
 [CV](https://github.com/polinaraspopina/rsschool-cv)
+
 ## Languages
 **_Russian_**: Native.
 
