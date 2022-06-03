@@ -12,15 +12,30 @@ About a year ago I got really intrested in Web Developing. It is fascinating to 
 
 I believe that my curiousity for knowledge and strong personality will allow me to become an adaptable and rsponsible Front-end Developer.
 ## Skills
-
+- HTML5 and CSS3 basics
+- Git, GitHub
+- VS Code
+- Experience with C/C++
 ## Education
 - Informatics and Computer Engineering BSc at NSTU (in progress)
 - HTML and CSS basics at [freecodecamp.org](www.freecodecamp.org)
 - JavaScript/Front-end. Stage 0 at [RS School](https://rs.school) (in progress)
 ## Code example
-
+*Codewars instructions*: This code does not execute properly. Try to figure out why.
+```
+function multiply(a, b){
+  a * b
+}
+```
+*Solution*:
+```
+function multiply(a, b){
+  return a * b
+}
+```
 ## Projects
-
+[CV](https://github.com/polinaraspopina/rsschool-cv)
 ## Languages
 **_Russian_**: Native.
 **_English_**: C1-C2, according to [efset.org online test](www.efset.org/quick-check)
+![My English level](https://imgur.com/a/PDZX0wO)
