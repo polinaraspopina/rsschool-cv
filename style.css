@@ -177,17 +177,27 @@ li {
     transition: color 0.3s;
 }
 
+.footer {
+    background-color: #f5300d;
+    padding: 5px;
+}
+
 .footer-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin: 0 auto;
     color: #fff;
-    background-color: #f5300d;
 }
 
-@media (max-width: 880px) {
+@media (max-width: 768px) {
     .section {
       width: 100%;
+    }
+
+    .section-profile {
+        flex-direction: column;
+        align-items: center;
     }
 
     .navigation {
