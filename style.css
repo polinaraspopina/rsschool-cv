@@ -177,10 +177,11 @@ li {
     transition: color 0.3s;
 }
 
-footer {
+.footer-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    color: #fff;
     background-color: #f5300d;
 }
 
