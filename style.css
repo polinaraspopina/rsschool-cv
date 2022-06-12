@@ -40,7 +40,7 @@ li {
 
 .nav-list {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
     list-style: none;
     margin-block-start: 1em;
@@ -185,8 +185,22 @@ li {
     background-color: #f5300d;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
     .section {
       width: 100%;
     }
+
+    .navigation {
+        display: none;
+    }
+
+    .toggle {
+        display: flex;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
 }
