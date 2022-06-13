@@ -117,7 +117,7 @@ li {
 .section-languages {
     display: flex;
     justify-content: space-around;
-    align-content: center;
+    align-items: center;
     width: 100%;
     padding: 10px;
     padding-bottom: 35px;
@@ -192,12 +192,18 @@ li {
 
 @media (max-width: 768px) {
     .section {
-      width: 100%;
+        width: 100%;
     }
 
     .section-profile {
         flex-direction: column;
         align-items: center;
+    }
+
+    .section-languages {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 10px 20px 30px;
     }
 
     .navigation {
